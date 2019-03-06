@@ -10,13 +10,15 @@
     "bcrypt": "^3.0.1",
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
+    "connect-redis": "^3.4.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "mongodb": "^3.1.13",
     "mongoose": "^5.4.16",
-    "pug": "~2.0.0-beta11"
+    "pug": "~2.0.0-beta11",
+    "redis": "^2.8.0"
   },
   "devDependencies": {
     "eslint": "^4.8.0",
